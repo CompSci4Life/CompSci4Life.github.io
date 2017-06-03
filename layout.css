@@ -18,5 +18,12 @@ li {
 }
 a:link {
     color: gold;
-    text-shadow: 2px 2px #ff0000;
+    text-decoration: none;
 }
+a:hover
+{
+     color:#00A0C6;
+     text-decoration:none;
+     cursor:pointer;
+}
+# CompSci4Life.github.io
