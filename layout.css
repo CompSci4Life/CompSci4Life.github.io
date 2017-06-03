@@ -1,0 +1,23 @@
+/* CSS Document */
+body {
+    background-color: black;
+}
+h1 {
+    color: gold;
+    text-shadow: 2px 2px #ff0000;
+}
+img {
+    width: 700px;
+    height: auto;
+    border: 20px solid gold;
+    padding: 5px;
+}
+li {
+    color: gold;
+    font-size: 30px;
+}
+a:link {
+    color: gold;
+    text-shadow: 2px 2px #ff0000;
+}
+# CompSci4Life.github.io
